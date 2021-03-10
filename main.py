@@ -1,7 +1,7 @@
 # imports
 
 import csv
-# csv because we are using
+# csv because we are using csv file
 
 import random
 # random to decide whether an "user" will get VIP or not
@@ -87,3 +87,9 @@ if ask_User.upper() == "AC" or ask_User.upper() == "ACCESS ACCOUNT":
 
 else:
     exit()
+                      
+                      
+
+                     
+                      
+# i was having trouble with if and else statements so its just a exit() sign at last, it was malfunction
