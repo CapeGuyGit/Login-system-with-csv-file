@@ -1,6 +1,6 @@
 # Login-system-with-csv-file
 
-by using csv file i have created login system in pythin
+by using csv file i have created login system in python
 
 csv = comma seprated vales
 
