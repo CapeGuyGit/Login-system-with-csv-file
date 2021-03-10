@@ -25,3 +25,6 @@ i know i could've used json file
 but, csv is way easier than json and its easy to read, its just comma sepreted values
 
 this file took 1 hour to make, hope this file helps out
+
+
+note: just use this file on ur own risk, csv files are extremely heavy and may take the provided spaces in virtual env
