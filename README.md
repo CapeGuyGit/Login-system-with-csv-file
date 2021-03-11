@@ -2,7 +2,7 @@
 
 by using csv file i have created login system in python
 
-csv = comma seprated vales
+csv = comma seprated values
 
 this code is neatly organized and commented 
 
